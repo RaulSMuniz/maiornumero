@@ -9,7 +9,7 @@ public class Maiornumero2 {
     public double numeros(){
         // verifica se num1 é maior que num2
         if (num1 > num2){
-            if (num1 > num3){ // verifica se num1 é maior que num2
+            if (num1 > num3){ // verifica se num1 é maior que num3
                 maior = num1;
             } else{ // se num1 é menor que num3, num3 é o maior
                 maior = num3;
